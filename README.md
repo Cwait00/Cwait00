@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cwait00
-- 👀 I’m interested in ...Cooking
-- 🌱 I’m currently learning ...Software Engineer
+- 👀 I’m interested in ...Technology
+- 🌱 I’m a software engineer and currently learning ...Data science
 - 💞️ I’m looking to collaborate on ...Tech companies
 - 📫 How to reach me ...cwaitanobongoza@gamil.com
 
