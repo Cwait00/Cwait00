@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @Cwait00
-- 👀 I’m interested in ...Technology
-- 🌱 I’m a software engineer and currently learning ...Data science
-- 💞️ I’m looking to collaborate on ...Tech companies
-- 📫 How to reach me ...cwaitanobongoza@gamil.com
+Hi, I'm Cwaita
 
-<!---
-Cwait00/Cwait00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Technical Sourcer | Data Analyst | Software Engineering
+
+I’m passionate about understanding how developers think, build, and solve problems. My focus is on identifying real technical talent beyond resumes by analyzing tools, projects, and problem-solving approaches.
+
+## What I’m Exploring
+- Open-source ecosystems
+- Technical talent signals
+- Data-driven insights
+- Developer workflows & systems
+
+## Tech & Tools
+- SQL | Python | Power BI
+- Git & GitHub
+- Systems Analysis (CRM, OSS/BSS)
+
+## Currently
+- Transitioning into Technical Sourcing
+- Exploring global remote tech environments
+- How to reach me ...cwaitanobongoza@gamil.com
